@@ -1,5 +1,5 @@
 # plugin-easysms-playsms
- playSMS gateway plugin for EasySMS
+ playSMS gateway plugin for <a target="_blank" href="https://easysms.gr">EasySMS</a>
 
 # Installation
 
