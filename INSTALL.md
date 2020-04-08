@@ -1,10 +1,10 @@
 # Installation
 
-You will need an installed and working playSMS, and assumed your playSMS is installed with these setups:
+You will need an installed and working playSMS, and assumed your playSMS is installed with this setup:
 
 - Your playSMS web files is in `/var/www/html/playsms`
 
-Follow below steps in order:
+Follow below steps:
 
 1. Clone this repo to your playSMS server
 
