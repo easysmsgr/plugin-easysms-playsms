@@ -41,7 +41,6 @@ switch (_OP_) {
 				'Module timezone' => _('Module timezone'),
 				'Save' => _('Save'),
 				'Notes' => _('Notes'),
-				// 'CALLBACK_URL' => _HTTP_PATH_PLUG_ . '/gateway/easysms/callback.php',
 				'HINT_API_KEY' => _hint(_('Sign up with easysms.gr to get your API Key')),
 				'HINT_MODULE_SENDER' => _hint(_('Max. 16 numeric or 11 alphanumeric char. empty to disable')),
 				'HINT_TIMEZONE' => _hint(_('Eg: +0700 for Jakarta/Bangkok timezone')),
@@ -63,7 +62,6 @@ switch (_OP_) {
 		break;
 
 	case "manage_save":
-		//$up_url = ($_REQUEST['up_url'] ? $_REQUEST['up_url'] : $plugin_config['easysms']['default_url']);
 		$up_url = $plugin_config['easysms']['url'];
 		$up_apikey = $_REQUEST['up_apikey'];
 		$up_module_sender = $_REQUEST['up_module_sender'];
