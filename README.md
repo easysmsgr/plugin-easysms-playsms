@@ -1,5 +1,5 @@
 # plugin-easysms-playsms
- <a href="https://github.com/antonraharja/playSMS">antonraharja/playSMS</a> gateway plugin for <a target="_blank" href="https://easysms.gr">EasySMS SMS Gateway</a>
+ <a target="_blank" href="https://easysms.gr">EasySMS SMS Gateway</a> plugin for <a href="https://github.com/antonraharja/playSMS">antonraharja/playSMS</a> SMS Gateway
 
 # Installation
 
