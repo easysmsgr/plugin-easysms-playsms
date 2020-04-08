@@ -10,7 +10,7 @@ Follow below steps:
 
    ```
    cd ~
-   git clone https://github.com/alexmavromichalis/plugin-easysms-playsms.git
+   git clone https://github.com/easysmsgr/plugin-easysms-playsms.git
    cd plugin-easysms-playsms
    ```
 
