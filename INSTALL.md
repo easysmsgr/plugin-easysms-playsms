@@ -3,9 +3,6 @@
 You will need an installed and working playSMS, and assumed your playSMS is installed with these setups:
 
 - Your playSMS web files is in `/var/www/html/playsms`
-- Your playSMS database is `playsms`
-- Your playSMS database username is `root`
-- You access the database, you know the password
 
 Follow below steps in order:
 
