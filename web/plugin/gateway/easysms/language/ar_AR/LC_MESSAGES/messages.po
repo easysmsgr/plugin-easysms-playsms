@@ -1,0 +1,68 @@
+msgid "All mandatory fields must be filled"
+msgstr ""
+
+msgid "easysms URL"
+msgstr ""
+
+msgid "Eg: +0700 for Jakarta/Bangkok timezone"
+msgstr ""
+
+msgid "Fail to save gateway module configurations"
+msgstr ""
+
+msgid "Fill to change the Password"
+msgstr ""
+
+msgid "Gateway module configurations has been saved"
+msgstr ""
+
+msgid "Gateway name"
+msgstr ""
+
+msgid "Manage easysms"
+msgstr ""
+
+msgid "Max. 16 numeric or 11 alphanumeric char. empty to disable"
+msgstr ""
+
+msgid "Module sender ID"
+msgstr ""
+
+msgid "Module timezone"
+msgstr ""
+
+msgid "Notes"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "API Key"
+msgstr ""
+
+msgid "Your callback URL is"
+msgstr ""
+
+msgid "Your callback URL should be accessible from EasySMS"
+msgstr ""
+
+msgid "EasySMS will push DLR in real time to your callback URL"
+msgstr ""
+
+msgid "EasySMS is a high quality SMS provider"
+msgstr ""
+
+msgid "free credits are available for testing purposes"
+msgstr ""
+
+msgid "Sign up with easysms.gr to get your API Key"
+msgstr ""
+
+msgid "To get your API Key sign up with"
+msgstr ""
